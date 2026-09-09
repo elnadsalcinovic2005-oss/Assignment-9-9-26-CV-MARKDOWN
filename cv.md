@@ -10,7 +10,7 @@ Computer Science student at Western Kentucky University interested in becoming a
 
 | Degree | School | Years |
 |---|---|---:|
-| B.S. in Computer Science | Western Kentucky University | 2023–Present |
+| Computer Science | Western Kentucky University | 2023–Present |
 
 ## Skills
 
