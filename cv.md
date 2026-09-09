@@ -9,8 +9,8 @@ Computer Science student at Western Kentucky University interested in becoming a
 ## Education
 
 | Degree | School | Years |
-|CS MAJOR. |WKU |   |4|
-
+|---|---|---:|
+| B.S. in Computer Science | Western Kentucky University | 2023–Present |
 
 ## Skills
 
@@ -44,9 +44,9 @@ Computer Science student at Western Kentucky University interested in becoming a
 
 ```swift
 struct Question {
-    let question: "What Is My First Name"
-    let answers: ["Elnad", "Lacy", "Joe"]
-    let correctAnswer: 0
+  let question: String
+  let answers: [String]
+  let correctAnswer: Int
 }
 ```
 
