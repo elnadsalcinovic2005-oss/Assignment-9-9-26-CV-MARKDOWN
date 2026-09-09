@@ -9,8 +9,8 @@ Computer Science student at Western Kentucky University interested in becoming a
 ## Education
 
 | Degree | School | Years |
-|---|---|---:|
-| B.S. in Computer Science | Western Kentucky University | 2023–Present |
+|CS MAJOR. |WKU |   |4|
+
 
 ## Skills
 
